@@ -4,6 +4,7 @@ cc_library(
          "include/verilated.cpp",
          "include/verilated_imp.h",
          "include/verilated_syms.h",
+         "include/verilated_sym_props.h",
          "include/verilated_config.h",
          "include/verilatedos.h"
     ],
